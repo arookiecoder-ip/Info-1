@@ -3,7 +3,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
-    background: url('path_to_your_background_image.jpg') no-repeat center center fixed; /* Background Image */
+    background: url('bgi.jpg') no-repeat center center fixed; /* Background Image */
     background-size: cover;
     color: #343a40; /* Light grey text color */
     line-height: 1.6;
@@ -87,7 +87,7 @@ header nav ul li a:hover {
     height: 80vh;
     display: flex;
     background: 
-    url(image-1.jpg);
+    url(header_image.jpg);
     justify-content: center;
     align-items: center;
     text-align: center;
