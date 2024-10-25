@@ -82,10 +82,12 @@ header nav ul li a:hover {
     padding-right: 20px;
 }
 .intro-section {
-    color: #1a237e; /* Navy blue text color */
+    color: #23d5df; /* Navy blue text color */
     position: relative;
     height: 80vh;
     display: flex;
+    background: 
+    url(image-1.jpg);
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -260,4 +262,8 @@ h2 {
         bottom: 10px;
         right: 10px;
     }
+}
+
+#images-1 {
+alt:Cinque Terre ; width: 1000 ,
 }
